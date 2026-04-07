@@ -66,7 +66,7 @@ lib/core/services/
    # Android
    flutter build apk
    ```
-
+5. **Note: Get your own Groq API key, since this one will be revoked.**
 ---
 
 ## 📜 License
