@@ -1,4 +1,4 @@
-# 🤖 ARIA: AI-Responsive Intelligent Assistant
+# 🤖 ARIA: AI-Responsive Intelligent Assistant.
 
 ![Internship](https://img.shields.io/badge/HexSoftwares-Internship-blue?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Artificial%20Intelligence-purple?style=flat-square) ![Task](https://img.shields.io/badge/Task-1%20%7C%20Project%202-orange?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter) ![Groq](https://img.shields.io/badge/Groq-Llama--3.1--8B-red?style=flat-square)
 
